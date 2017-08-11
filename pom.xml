@@ -14,7 +14,7 @@
     </parent>
 
     <groupId>io.pivotal</groupId>
-    <artifactId>pong-matcher-spring</artifactId>
+    <artifactId>springpong</artifactId>
     <version>1.0.0.BUILD-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -96,8 +96,8 @@
                         http://www.testcompany.com/terms-and-conditions
                     </termsOfService>
                     <contact>
-                        <email>SureshSatyam(@)testcompany.com</email>
-                        <name>Suresh Satyam</name>
+                        <email>tbbost@gmail.com</email>
+                        <name>T Bost</name>
                         <url>http://www.testcompany.com</url>
                     </contact>
                     <license>
