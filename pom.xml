@@ -14,7 +14,7 @@
     </parent>
 
     <groupId>io.pivotal</groupId>
-    <artifactId>pong-matcher-spring</artifactId>
+    <artifactId>springpong</artifactId>
     <version>1.0.0.BUILD-SNAPSHOT</version>
     <packaging>jar</packaging>
 
